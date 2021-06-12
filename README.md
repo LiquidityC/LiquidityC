@@ -1,3 +1,5 @@
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=liquidityc&theme=onedark)](https://github.com/liquidityc)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liquidityc&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blightmud)](https://github.com/anuraghazra/github-readme-stats) -->
