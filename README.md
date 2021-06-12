@@ -1,4 +1,4 @@
-[![MasterHead](assets/banner.jpg)](https://github.com/liquidityc)
+[![MasterHead](assets/banner.png)](https://github.com/liquidityc)
 
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=liquidityc&theme=onedark)](https://github.com/liquidityc)
 
