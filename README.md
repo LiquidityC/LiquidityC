@@ -6,6 +6,8 @@ I'm a professional software developer since 2010 with a degree in Computer Scien
 
 My spare time is mostly dedicated to family and hobby projects. Currently most of my 'spare' time is dedicated to [Blightmud](https://github.com/blightmud/blightmud) and improving my skills in Rust, C/C++.
 
+![](https://komarev.com/ghpvc/?username=liquidityc)
+
 ### My tech stack (What I have professional experience in)
 ---
 <p align="left">
@@ -32,7 +34,7 @@ My spare time is mostly dedicated to family and hobby projects. Currently most o
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LiquidityC&theme=dark)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liquidityc&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=liquidityc&theme=onedark&column=3)](https://github.com/liquidityc)
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=liquidityc&theme=onedark)](https://github.com/liquidityc)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blightmud)](https://github.com/anuraghazra/github-readme-stats) -->
 
