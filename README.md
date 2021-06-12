@@ -1,3 +1,5 @@
+[![MasterHead](assets/banner.jpg)](https://github.com/liquidityc)
+
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=liquidityc&theme=onedark)](https://github.com/liquidityc)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liquidityc&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
