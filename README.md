@@ -4,7 +4,7 @@ Hi, my name is Linus Probert.
 
 I'm a professional software developer since 2010 with a degree in Computer Science. My working experience has consisted of fullstack Java development for 8+ years and as the internet has evolved this has transitioned into fullstack with a backend of whatever architecture and language suits the project (Nodejs, Python, Java, AWS, GCP, Azure) and frontend in something suitable. Commonly Vuejs, Angular or React. Currently I work with embedded applications in the automotive industry using C/C++.
 
-My spare time is mostly dedicated to family and hobby projects. Currently most of my 'spare' time is dedicated to [Blightmud](https://github.com/blightmud/blightmud) and improving my skills in Rust, C/C++.
+My *spare* time is mostly dedicated to family and hobby projects. Currently most of my *spare* time is dedicated to [Blightmud](https://github.com/blightmud/blightmud) and improving my skills in Rust, C/C++.
 
 ![](https://komarev.com/ghpvc/?username=liquidityc)
 
